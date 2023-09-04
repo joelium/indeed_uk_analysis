@@ -3,7 +3,7 @@ title: Writing your dissertation - structure and sections
 author: Tom Reid
 format:
     html:
-	    toc: true
+        toc: true
 ---
 
 # Writing your dissertation - structure and sections
