@@ -1,0 +1,11 @@
+/*-- scss:rules --*/
+
+.cell-output-display pre, .cell-output-stdout pre
+    {background-color: rgb(255, 255, 240);
+    padding-bottom: 2.125px;
+    padding-left: 4.25px;
+    padding-right: 4.25px;
+    padding-top: 2.125px;
+    
+    border: rgba(233, 236, 239, 0.65) 1px solid;    
+}
