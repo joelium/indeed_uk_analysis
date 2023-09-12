@@ -1,0 +1,17 @@
+{
+    "browser": "Brave",
+    "SEC-CH-UA-MOBILE": "?0",
+    "SEC-CH-UA-PLATFORM": "Windows",
+    "SEC-CH-UA-PLATFORM-VERSION": "15.0.0",
+    "SEC-CH-UA-MODEL": "",
+    "UPGRADE-INSECURE-REQUESTS": 1,
+    "USER-AGENT": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+    "ACCEPT": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "SEC-GPC": 1,
+    "ACCEPT-LANGUAGE": "en-GB,en;q=0.9",
+    "SEC-FETCH-SITE": "same-origin",
+    "SEC-FETCH-MODE": "navigate",
+    "SEC-FETCH-USER": "?1",
+    "SEC-FETCH-DEST": "document",
+    "ACCEPT-ENCODING": "gzip, deflate, br"
+}
